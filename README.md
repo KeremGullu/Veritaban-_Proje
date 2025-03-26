@@ -1,2 +1,2 @@
-# Veritaban-_Proje
+# Veritabani_Proje
 Asistan Cagrı Sistemi
